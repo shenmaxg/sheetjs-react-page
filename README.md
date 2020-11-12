@@ -29,10 +29,10 @@ $ npm run start
 
 使用 sheetjs 库解析 Excel ，对解析后的数据定制化处理，转化为 antd table 需要的参数格式，进行预览。同时转换为后端需要的 JSON 格式。
 
-具体的适用规则在文章[]()中定义。
+具体的使用规则在文章[通用 Excel 数据导入方案](https://zhuanlan.zhihu.com/p/289347583)中定义。
 
 ## 相关文章
 
 1. [JavaScript 是如何解析 Excel 文件的？](https://zhuanlan.zhihu.com/p/180074383)
-2. []()
+2. [通用 Excel 数据导入方案](https://zhuanlan.zhihu.com/p/289347583)
 
